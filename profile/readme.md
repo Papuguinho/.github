@@ -37,7 +37,7 @@
 
 🇺🇸 <i>Test the web version directly in your browser.</i>
 
-👉 <a href="app.papuguinho.com">Acessar Web App</a> </td> </tr> </table>
+👉 <a href="https://app.papuguinho.com">Acessar Web App</a> </td> </tr> </table>
 
 ### 🛠️ Tecnologias | Tech Stack
 
@@ -250,6 +250,7 @@ PhD in Space Geophysics (INPE), Professor and researcher (IFSP-Jacareí). Respon
   Desenvolvido com ❤️ pelos alunos do <b>IFSP - Campus Jacareí</b><br>
   <i>Developed with ❤️ by students from <b>IFSP - Jacareí Campus</b></i>
 </p>
+
 
 
 
