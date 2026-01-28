@@ -11,7 +11,7 @@
 ### ✨ O que é o Papuguinho? | What is Papuguinho?
 
 <p align="justify">
-🇧🇷 <b>Português:</b> O Papuguinho é um Projeto de Iniciação Científica, realizada por alunos  e ex-alunos do Instituto Federal de São Paulo - Campus Jacareí, focada no desenvolvimento de um aplicativo de Comunicação Aumentativa e Alternativa (CAA). Trata-se de uma tecnologia assistiva com o objetivo de auxiliar na comunicação verbal de indivíduos neurodivergentes, como pessoas com Transtorno do Espectro Autista (TEA) e Síndrome de Down. Nosso propósito é oferecer, de forma gratuita, uma plataforma de pranchas CAA que consiga ajudar o máximo de pessoas possível.
+🇧🇷 <b>Português:</b> O Papuguinho é um Projeto de Iniciação Científica, realizada por alunos  e ex-alunos do Instituto Federal de São Paulo - Campus Jacareí, focado no desenvolvimento de um aplicativo de Comunicação Aumentativa e Alternativa (CAA). Trata-se de uma tecnologia assistiva com o objetivo de auxiliar na comunicação verbal de indivíduos neurodivergentes, como pessoas com Transtorno do Espectro Autista (TEA) e Síndrome de Down. Nosso propósito é oferecer, de forma gratuita, uma plataforma de pranchas CAA que consiga ajudar o máximo de pessoas possível.
 </p>
 
 <p align="justify">
@@ -248,6 +248,7 @@ Markdown
   Desenvolvido com ❤️ pelos alunos do <b>IFSP - Campus Jacareí</b><br>
   <i>Developed with ❤️ by students from <b>IFSP - Jacareí Campus</b></i>
 </p>
+
 
 
 
