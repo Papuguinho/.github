@@ -205,6 +205,63 @@ PhD in Space Geophysics (INPE), Professor and researcher (IFSP-Jacareí). Respon
   </tr>
 </table>
 
+Essa é a melhor forma de encerrar o README, pois transforma o visitante em um seguidor ou apoiador do projeto. Para manter o visual profissional, vamos usar Badges (escudos) para as ações de ajuda, o que incentiva muito mais o clique.
+
+Aqui está o código para essas duas seções finais:
+
+Markdown
+
+---
+
+### 🌐 Quer conhecer mais? | Want to know more?
+
+<table>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=icloud&logoColor=white" alt="Website">
+    </td>
+    <td>
+      🇧🇷 Visite nosso site oficial para conferir notícias, artigos e atualizações do projeto.<br>
+      🇺🇸 <i>Visit our official website for news, papers, and project updates.</i><br>
+      👉 <a href="https://SEU-SITE-AQUI.com"><b>papuguinho.com</b></a>
+    </td>
+  </tr>
+</table>
+
+### ❤️ Como nos ajudar? | How to help us?
+
+🇧🇷 Sua colaboração é fundamental para o crescimento desta iniciativa de tecnologia assistiva! Você pode nos apoiar de três formas simples:
+🇺🇸 <i>Your collaboration is essential for this assistive technology initiative to grow! You can support us in three simple ways:</i>
+
+<br>
+
+1. **🇧🇷 Siga a Organização:** Clique no botão `Follow` no topo desta página para acompanhar novos projetos.<br>
+   **🇺🇸 Follow the Organization:** Click the `Follow` button at the top of this page to stay updated on new projects.
+
+2. **🇧🇷 Dê uma estrela:** Entre em nossos repositórios e deixe uma ⭐. Isso ajuda muito na visibilidade da nossa pesquisa.<br>
+   **🇺🇸 Star our repos:** Check out our repositories and leave a ⭐. This greatly helps the visibility of our research.
+
+3. **🇧🇷 Compartilhe:** Espalhe a causa para pessoas que possam se beneficiar de uma ferramenta de CAA gratuita.<br>
+   **🇺🇸 Share:** Spread the word to people who could benefit from a free AAC tool.
+
+<p align="left">
+  <a href="https://github.com/Papuguinho" target="_blank">
+    <img src="https://img.shields.io/github/followers/Papuguinho?label=FOLLOW%20ORG&style=flat-square&color=333&logo=github&logoColor=white" height="35" alt="Follow">
+  </a>
+  &nbsp;
+  <a href="https://github.com/Papuguinho" target="_blank">
+    <img src="https://img.shields.io/badge/STAR%20REPOS-yellow?style=flat-square&logo=github-sponsors&logoColor=black" height="35" alt="Star">
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/Papuguinho" target="_blank">
+    <img src="https://img.shields.io/badge/SHARE-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="35" alt="Share">
+  </a>
+</p>
+
+
+
+
+
 
 
 
