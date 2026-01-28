@@ -11,11 +11,11 @@
 ### ✨ O que é o Papuguinho? | What is Papuguinho?
 
 <p align="justify">
-🇧🇷 <b>Português:</b> O Papuguinho é uma iniciativa de Iniciação Científica, realizada por alunos  e ex-alunos do Instituto Federal de São Paulo - Campus Jacareí, focada no desenvolvimento de um aplicativo de Comunicação Aumentativa e Alternativa (CAA). Trata-se de uma tecnologia assistiva com o objetivo de auxiliar na comunicação verbal de indivíduos neurodivergentes, como pessoas com Transtorno do Espectro Autista (TEA) e Síndrome de Down. Nosso propósito é oferecer, de forma gratuita, uma plataforma de pranchas CAA que consiga ajudar o máximo de pessoas possível.
+🇧🇷 <b>Português:</b> O Papuguinho é um Projeto de Iniciação Científica, realizada por alunos  e ex-alunos do Instituto Federal de São Paulo - Campus Jacareí, focada no desenvolvimento de um aplicativo de Comunicação Aumentativa e Alternativa (CAA). Trata-se de uma tecnologia assistiva com o objetivo de auxiliar na comunicação verbal de indivíduos neurodivergentes, como pessoas com Transtorno do Espectro Autista (TEA) e Síndrome de Down. Nosso propósito é oferecer, de forma gratuita, uma plataforma de pranchas CAA que consiga ajudar o máximo de pessoas possível.
 </p>
 
 <p align="justify">
-🇺🇸 <b>English:</b> Papuguinho is a Scientific Initiation initiative, carried out by students and alumni of the Federal Institute of São Paulo - Jacareí Campus, focused on the development of an Augmentative and Alternative Communication (AAC) application. It is an assistive technology aimed at aiding verbal communication for neurodivergent individuals, such as people with Autism Spectrum Disorder (ASD) and Down Syndrome. Our purpose is to offer, free of charge, an AAC board platform that can help as many people as possible.
+🇺🇸 <b>English:</b> Papuguinho is a Scientific Initiation project, carried out by students and alumni of the Federal Institute of São Paulo - Jacareí Campus, focused on the development of an Augmentative and Alternative Communication (AAC) application. It is an assistive technology aimed at aiding verbal communication for neurodivergent individuals, such as people with Autism Spectrum Disorder (ASD) and Down Syndrome. Our purpose is to offer, free of charge, an AAC board platform that can help as many people as possible.
 </p>
 
 ---
@@ -204,6 +204,7 @@ PhD in Space Geophysics (INPE), Professor and researcher (IFSP-Jacareí). Respon
     </td>
   </tr>
 </table>
+
 
 
 
