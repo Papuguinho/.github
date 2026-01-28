@@ -32,8 +32,17 @@ Nossa stack é focada em performance e escalabilidade para entregar a melhor exp
 
 ### 🤝 Parceiros
 Instituições e grupos que apoiam e viabilizam esta iniciativa:
-* **IFSP - Campus Jacareí:** Base institucional e fomento à pesquisa.
-* *[Adicione aqui outros parceiros, laboratórios ou órgãos de fomento]*
+
+<p align="left">
+  <a href="https://jcr.ifsp.edu.br/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/c131dcc1-a43c-44cc-a6de-e849d6389c54" width="150" height="150" alt="IFSP Logo">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://arasaac.org" target="_blank">
+    <img src="https://github.com/user-attachments/assets/ea2d900a-3d3d-4383-b751-1da39afcc408" width="150"  height="150" alt="ARASSAC Logo">
+  </a>
+
+</p>
 
 ---
 
@@ -65,3 +74,4 @@ Institutions and groups that support and enable this initiative:
   <img src="https://img.shields.io/badge/IFSP-Campus%20Jacareí-red?style=for-the-badge" alt="IFSP">
   <img src="https://img.shields.io/badge/Research-Iniciação%20Científica-blue?style=for-the-badge" alt="Research">
 </p>
+
