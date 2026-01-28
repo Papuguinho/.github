@@ -244,19 +244,11 @@ Markdown
 3. **🇧🇷 Compartilhe:** Espalhe a causa para pessoas que possam se beneficiar de uma ferramenta de CAA gratuita.<br>
    **🇺🇸 Share:** Spread the word to people who could benefit from a free AAC tool.
 
-<p align="left">
-  <a href="https://github.com/Papuguinho" target="_blank">
-    <img src="https://img.shields.io/github/followers/Papuguinho?label=FOLLOW%20ORG&style=flat-square&color=333&logo=github&logoColor=white" height="35" alt="Follow">
-  </a>
-  &nbsp;
-  <a href="https://github.com/Papuguinho" target="_blank">
-    <img src="https://img.shields.io/badge/STAR%20REPOS-yellow?style=flat-square&logo=github-sponsors&logoColor=black" height="35" alt="Star">
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/Papuguinho" target="_blank">
-    <img src="https://img.shields.io/badge/SHARE-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="35" alt="Share">
-  </a>
+<p align="center">
+  Desenvolvido com ❤️ pelos alunos do <b>IFSP - Campus Jacareí</b><br>
+  <i>Developed with ❤️ by students from <b>IFSP - Jacareí Campus</b></i>
 </p>
+
 
 
 
