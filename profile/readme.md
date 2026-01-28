@@ -20,6 +20,25 @@
 
 ---
 
+
+📥 Download & Teste | Download & Testing
+<table> <tr> <td align="center" width="150">  <img src="https://github.com/user-attachments/assets/035b6094-c4b8-43d2-bd45-4d1affe38847" width="100" height="100" style="border-radius: 50%; background-color: #1A1A1A; padding: 5px;" /> </td> <td> <strong>Android (Play Store)</strong>
+
+
+🇧🇷 Versão estável disponível para dispositivos Android.
+
+
+🇺🇸 <i>Stable version available for Android devices.</i>
+
+
+👉 <a href="LINK_DA_PLAYSTORE">Download via Play Store</a> </td> </tr> <tr> <td align="center" width="150"> <img src="https://github.com/user-attachments/assets/fa907a97-bb99-488b-817e-09b04ed66b5d" alt="Web App" width="100" height="100" style="border-radius: 50%; background-color: #1A1A1A; padding: 5px;"> </td> <td> <strong>Web Version</strong>
+
+🇧🇷 Teste a versão web diretamente no seu navegador.
+
+🇺🇸 <i>Test the web version directly in your browser.</i>
+
+👉 <a href="app.papuguinho.com">Acessar Web App</a> </td> </tr> </table>
+
 ### 🛠️ Tecnologias | Tech Stack
 
 <table>
@@ -185,6 +204,7 @@ PhD in Space Geophysics (INPE), Professor and researcher (IFSP-Jacareí). Respon
     </td>
   </tr>
 </table>
+
 
 
 
