@@ -121,8 +121,8 @@ Este projeto é fruto da colaboração entre pesquisadores e desenvolvedores ded
 <table>
   <tr>
     <td align="center" width="150">
-      <a href="https://github.com/NOME-DE-USUARIO">
-        <img src="https://github.com/NOME-DE-USUARIO.png" width="100px;" alt="Tardelli Stekel"/>
+      <a href="https://github.com/tardellirs">
+        <img src="https://github.com/tardellirs.png" width="100px;" alt="Tardelli Stekel"/>
         <br />
         <img src="https://img.shields.io/badge/Tardelli%20Stekel-black?style=flat-square" />
       </a>
@@ -204,6 +204,7 @@ PhD in Space Geophysics (INPE), Professor and researcher (IFSP-Jacareí). Respon
     </td>
   </tr>
 </table>
+
 
 
 
