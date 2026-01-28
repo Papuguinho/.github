@@ -205,11 +205,6 @@ PhD in Space Geophysics (INPE), Professor and researcher (IFSP-Jacareí). Respon
   </tr>
 </table>
 
-Essa é a melhor forma de encerrar o README, pois transforma o visitante em um seguidor ou apoiador do projeto. Para manter o visual profissional, vamos usar Badges (escudos) para as ações de ajuda, o que incentiva muito mais o clique.
-
-Aqui está o código para essas duas seções finais:
-
-Markdown
 
 ---
 
@@ -248,6 +243,7 @@ Markdown
   Desenvolvido com ❤️ pelos alunos do <b>IFSP - Campus Jacareí</b><br>
   <i>Developed with ❤️ by students from <b>IFSP - Jacareí Campus</b></i>
 </p>
+
 
 
 
