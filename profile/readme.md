@@ -223,10 +223,9 @@ PhD in Space Geophysics (INPE), Professor and researcher (IFSP-Jacareí). Respon
 
 ### ❤️ Como nos ajudar? | How to help us?
 
-🇧🇷 Sua colaboração é fundamental para o crescimento desta iniciativa de tecnologia assistiva! Você pode nos apoiar de três formas simples:
+🇧🇷 Sua colaboração é fundamental para o crescimento desta iniciativa de tecnologia assistiva! Você pode nos apoiar de três formas simples: <br>
 🇺🇸 <i>Your collaboration is essential for this assistive technology initiative to grow! You can support us in three simple ways:</i>
 
-<br>
 
 1. **🇧🇷 Siga a Organização:** Clique no botão `Follow` no topo desta página para acompanhar novos projetos.<br>
    **🇺🇸 Follow the Organization:** Click the `Follow` button at the top of this page to stay updated on new projects.
@@ -237,10 +236,21 @@ PhD in Space Geophysics (INPE), Professor and researcher (IFSP-Jacareí). Respon
 3. **🇧🇷 Compartilhe:** Espalhe a causa para pessoas que possam se beneficiar de uma ferramenta de CAA gratuita.<br>
    **🇺🇸 Share:** Spread the word to people who could benefit from a free AAC tool.
 
+
+   <br>
+
+   
+ # ⚖️ Licença | License
+
+🇧🇷 Este projeto está licenciado sob a **GNU GPLv3**. Isso garante que o software permaneça livre e aberto para todos os usuários e desenvolvedores. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+🇺🇸 *This project is licensed under the **GNU GPLv3**. This ensures that the software remains free and open for all users and developers. See the [LICENSE](LICENSE) file for more details.*
+
 <p align="center">
   Desenvolvido com ❤️ pelos alunos do <b>IFSP - Campus Jacareí</b><br>
   <i>Developed with ❤️ by students from <b>IFSP - Jacareí Campus</b></i>
 </p>
+
 
 
 
