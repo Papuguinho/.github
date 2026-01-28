@@ -170,8 +170,8 @@ PhD in Space Geophysics (INPE), Professor and researcher (IFSP-Jacareí). Respon
 
   <tr>
     <td align="center" width="150">
-      <a href="https://github.com/NOME-DE-USUARIO">
-        <img src="https://github.com/NOME-DE-USUARIO.png" width="100px;" alt="Marcela Souza"/>
+      <a href="https://github.com/marcela-vic938">
+        <img src="https://github.com/marcela-vic938.png" width="100px;" alt="Marcela Souza"/>
         <br />
         <img src="https://img.shields.io/badge/Marcela%20Souza-black?style=flat-square" />
       </a>
@@ -185,5 +185,6 @@ PhD in Space Geophysics (INPE), Professor and researcher (IFSP-Jacareí). Respon
     </td>
   </tr>
 </table>
+
 
 
