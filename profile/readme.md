@@ -116,8 +116,6 @@
 
 ### 👥 Equipe de Desenvolvimento | Development Team
 
-Este projeto é fruto da colaboração entre pesquisadores e desenvolvedores dedicados à tecnologia assistiva:
-
 <table>
   <tr>
     <td align="center" width="150">
@@ -243,6 +241,7 @@ PhD in Space Geophysics (INPE), Professor and researcher (IFSP-Jacareí). Respon
   Desenvolvido com ❤️ pelos alunos do <b>IFSP - Campus Jacareí</b><br>
   <i>Developed with ❤️ by students from <b>IFSP - Jacareí Campus</b></i>
 </p>
+
 
 
 
