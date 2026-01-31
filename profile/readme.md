@@ -89,7 +89,7 @@
   <tr>
     <td align="center" width="200">
       <a href="https://jcr.ifsp.edu.br/" target="_blank">
-        <img src="https://github.com/user-attachments/assets/c131dcc1-a43c-44cc-a6de-e849d6389c54" height="100" alt="IFSP Logo">
+        <img src="https://github.com/user-attachments/assets/c131dcc1-a43c-44cc-a6de-e849d6389c54" height="150" alt="IFSP Logo">
       </a>
     </td>
     <td>
@@ -102,7 +102,7 @@
   <tr>
     <td align="center" width="200">
       <a href="https://arasaac.org" target="_blank">
-        <img src="https://github.com/user-attachments/assets/ea2d900a-3d3d-4383-b751-1da39afcc408" height="100" alt="ARASSAC Logo">
+        <img src="https://github.com/user-attachments/assets/ea2d900a-3d3d-4383-b751-1da39afcc408" height="150" alt="ARASSAC Logo">
       </a>
     </td>
     <td>
@@ -110,6 +110,19 @@
       Fornecedor dos recursos gráficos e sistemas de comunicação aumentativa e alternativa (CAA) utilizados nas interfaces do projeto.
       <br><br>
       <i>Provider of graphical resources and augmentative/alternative communication (AAC) systems used in the project's interfaces.</i>
+    </td>
+  </tr>
+    <tr>
+    <td align="center" width="200">
+      <a href="https://grupopesquisamind.github.io/site_mind/" target="_blank">
+          <img width="749" height="496" alt="image" src="https://github.com/user-attachments/assets/a50fb05c-54e8-4c11-9774-429064eba20f" height="100" alt="MIND Logo"/>
+      </a>
+    </td>
+    <td>
+      <strong>Grupo MIND</strong><br>
+      Grupo de pesquisa do IFSP-Jacareí, certificado pelo CNPq. Tem o propósito de promover pesquisas que favoreçam a inclusão de todos os estudantes nos espaços escolares. 
+      <br><br>
+      <i>Research group at IFSP-Jacareí, certified by CNPq. Its purpose is to promote research that favors the inclusion of all students in school environments.</i>
     </td>
   </tr>
 </table>
@@ -250,6 +263,7 @@ PhD in Space Geophysics (INPE), Professor and researcher (IFSP-Jacareí). Respon
   Desenvolvido com ❤️ pelos alunos do <b>IFSP - Campus Jacareí</b><br>
   <i>Developed with ❤️ by students from <b>IFSP - Jacareí Campus</b></i>
 </p>
+
 
 
 
