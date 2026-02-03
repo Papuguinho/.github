@@ -229,7 +229,7 @@ PhD in Space Geophysics (INPE), Professor and researcher (IFSP-Jacareí). Respon
     <td>
       🇧🇷 Visite nosso site oficial para conferir notícias, artigos e atualizações do projeto.<br>
       🇺🇸 <i>Visit our official website for news, papers, and project updates.</i><br>
-      👉 <a href="https://SEU-SITE-AQUI.com"><b>papuguinho.com</b></a>
+      👉 <a href="https://www.papuguinho.com"><b>papuguinho.com</b></a>
     </td>
   </tr>
 </table>
@@ -263,6 +263,7 @@ PhD in Space Geophysics (INPE), Professor and researcher (IFSP-Jacareí). Respon
   Desenvolvido com ❤️ pelos alunos do <b>IFSP - Campus Jacareí</b><br>
   <i>Developed with ❤️ by students from <b>IFSP - Jacareí Campus</b></i>
 </p>
+
 
 
 
