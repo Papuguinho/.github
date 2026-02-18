@@ -157,10 +157,10 @@ PhD in Space Geophysics (INPE), Professor and researcher (IFSP-Jacareí). Respon
     </td>
     <td>
       <strong>🇧🇷 Desenvolvedor de Software e Pesquisador</strong><br>
-      Técnico em Informática e pesquisador (IFSP-Jacareí). Responsável pelo desenvolvimento do software com arquitetura em FlutterFlow/Firebase. <b>Bolsista (2024 - 2025), Voluntário ( 2026 - presente)</b>.
+      Técnico em Informática e pesquisador (IFSP-Jacareí), cursando Bacharelado Interdisciplinar em Ciência e Tecnologia (UNIFESP-São José dos Campos). Responsável pelo desenvolvimento do software com arquitetura em FlutterFlow/Firebase. <b>Bolsista (2024 - 2025), Voluntário (2026 - presente)</b>.
       <br><br>
       <strong>🇺🇸 Software Developer & Researcher</strong><br>
-      <i> IT technician and researcher.  Responsible for software development using FlutterFlow/Firebase architecture. <b>Scholarship recipient (2024 - present), Volunteer (2026 - present)</b> </i>
+      <i> Computer Technician and researcher (IFSP-Jacareí), currently pursuing a Bachelor's degree in Interdisciplinary Science and Technology (UNIFESP-São José dos Campos). Responsible for software development using FlutterFlow/Firebase architecture. Scholarship recipient (2024-2025), Volunteer (2026-present).</b> </i>
     </td>
   </tr>
 
@@ -263,6 +263,7 @@ PhD in Space Geophysics (INPE), Professor and researcher (IFSP-Jacareí). Respon
   Desenvolvido com ❤️ pelos alunos do <b>IFSP - Campus Jacareí</b><br>
   <i>Developed with ❤️ by students from <b>IFSP - Jacareí Campus</b></i>
 </p>
+
 
 
 
