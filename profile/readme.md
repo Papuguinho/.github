@@ -208,10 +208,10 @@ PhD in Space Geophysics (INPE), Professor and researcher (IFSP-Jacareí). Respon
     </td>
     <td>
       <strong>🇧🇷 Designer de Produto (UI/UX), Desenvolvedora Web, Pesquisadora</strong><br>
-      Técnica em Informática e pesquisadora (IFSP-Jacareí). Responsável pela elaboração do design do aplicativo (UX/UI), identidade visual e pelo desenvolvimento do site informativo. <b>Bolsista (2025 - 2025), Voluntária ( 2026 - presente)</b>.
+      Técnica em Informática e pesquisadora (IFSP-Jacareí), cursando farmácia (UNESP-Araraquara). Responsável pela elaboração do design do aplicativo (UX/UI), identidade visual e pelo desenvolvimento do site informativo. <b>Bolsista (2025 - 2025), Voluntária ( 2026 - presente)</b>.
       <br><br>
       <strong>🇺🇸 Product Designer (UI/UX), Web Developer, Researcher</strong><br>
-      <i>IT Technician and Researcher (IFSP-Jacareí). Responsible for designing the application (UX/UI), visual identity, and developing the informational website. <b>Scholarship recipient (2025 - 2025), Volunteer (2026 - present).</b></i>
+      <i>Computer Technician and researcher (IFSP-Jacareí), currently studying pharmacy (UNESP-Araraquara). Responsible for the design of the application (UX/UI), visual identity, and the development of the informational website. Scholarship recipient (2025 - 2025), Volunteer (2026 - present).</b></i>
     </td>
   </tr>
 </table>
