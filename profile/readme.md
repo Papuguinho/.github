@@ -130,15 +130,7 @@
       <a href="https://grupopesquisamind.github.io/site_mind/" target="_blank">
           <img width="749" height="496" alt="image" src="https://github.com/user-attachments/assets/a50fb05c-54e8-4c11-9774-429064eba20f" height="100" alt="MIND Logo"/>
       </a>
-      
-    </td>
-    <td>
-      <strong>EMEI Thiago Silva Santos</strong><br>
-      Escola-piloto e primeira unidade de ensino a receber o Papuguinho, desempenhando um papel fundamental na fase de testes, validação pedagógica e fornecimento de sugestões essenciais para o aprimoramento da ferramenta no cotidiano escolar.
-      <br><br>
-      <i>Research group at IFSP-Jacareí, certified by CNPq. Its purpose is to promote research that favors the inclusion of all students in school environments.</i>
-    </td>
-  </tr>
+  </tr>                                                                                                                            
 </table>
 
 ### 👥 Equipe de Desenvolvimento | Development Team
