@@ -124,13 +124,7 @@
       <br><br>
       <i>Research group at IFSP-Jacareí, certified by CNPq. Its purpose is to promote research that favors the inclusion of all students in school environments.</i>
     </td>
-  </tr>
-      <tr>
-    <td align="center" width="200">    
-      <a href="https://grupopesquisamind.github.io/site_mind/" target="_blank">
-          <img width="749" height="496" alt="image" src="https://github.com/user-attachments/assets/a50fb05c-54e8-4c11-9774-429064eba20f" height="100" alt="MIND Logo"/>
-      </a>
-  </tr>                                                                                                                            
+  </tr>                                                                                                                          
 </table>
 
 ### 👥 Equipe de Desenvolvimento | Development Team
