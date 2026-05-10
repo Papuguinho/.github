@@ -31,7 +31,7 @@
 🇺🇸 <i>Stable version available for Android devices.</i>
 
 
-👉 <a href="LINK_DA_PLAYSTORE">Download via Play Store</a> </td> </tr> <tr> <td align="center" width="150"> <img src="https://github.com/user-attachments/assets/fa907a97-bb99-488b-817e-09b04ed66b5d" alt="Web App" width="100" height="100" style="border-radius: 50%; background-color: #1A1A1A; padding: 5px;"> </td> <td> <strong>Web Version</strong>
+👉 <a href="LINK_DA_PLAYSTORE">Download via Play Store</a> </td> </tr> <tr> <td align="center" width="150"> <img src="https://github.com/user-attachments/assets/cfb82893-7b2e-4ee3-9494-e8f4aa01b8c6" alt="Web App" width="100" height="100" style="border-radius: 50%; background-color: #1A1A1A; padding: 5px;"> </td> <td> <strong>Web Version</strong>
 
 🇧🇷 Teste a versão web diretamente no seu navegador.
 
@@ -51,13 +51,14 @@
   </thead>
   <tbody>
     <tr>
-      <td><strong>Interface & Mobile</strong></td>
+        <tr>
+      <td><strong>Mobile development</strong></td>
       <td>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKl6XwtK1SOw0KTHTDIHG8_Z09TRBNlhz--w&s" width="48" height="48" style="border-radius: 50%; background-color: #1A1A1A; padding: 5px;" />
+        <img src="https://skillicons.dev/icons?i=flutter,dart"/>
       </td>
       <td>
-        🇧🇷 Desenvolvimento ágil da interface e experiência do usuário.<br>
-        🇺🇸 <i>Agile development of UI and user experience.</i>
+        🇧🇷 Criação de toda a estrutura da aplicação.<br>
+        🇺🇸 <i>Creating the entire application structure.</i>
       </td>
     </tr>
     <tr>
@@ -70,14 +71,14 @@
         🇺🇸 <i>Database (Firestore), Authentication.</i>
       </td>
     </tr>
-    <tr>
-      <td><strong>Custom Logic</strong></td>
+        <tr>
+      <td><strong>Code versioning</strong></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=flutter,dart"/>
+        <img src="https://skillicons.dev/icons?i=git,github"/>
       </td>
       <td>
-        🇧🇷 Criação de funções, ações e widgets personalizados via código.<br>
-        🇺🇸 <i>Creation of custom functions, actions, and widgets via code.</i>
+        🇧🇷 Versionamento de código através do git e Github.<br>
+        🇺🇸 <i>Code versioning using Git and GitHub..</i>
       </td>
     </tr>
   </tbody>
@@ -253,8 +254,8 @@ PhD in Space Geophysics (INPE), Professor and researcher (IFSP-Jacareí). Respon
       <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=icloud&logoColor=white" alt="Website">
     </td>
     <td>
-      🇧🇷 Visite nosso site oficial para conferir notícias, artigos e atualizações do projeto.<br>
-      🇺🇸 <i>Visit our official website for news, papers, and project updates.</i><br>
+      🇧🇷 Visite nosso site oficial para conhecer mais nosso projeto.<br>
+      🇺🇸 <i>Visit our official website to learn more about our project.</i><br>
       👉 <a href="https://www.papuguinho.com"><b>papuguinho.com</b></a>
     </td>
   </tr>
