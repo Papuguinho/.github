@@ -124,7 +124,33 @@
       <br><br>
       <i>Research group at IFSP-Jacareí, certified by CNPq. Its purpose is to promote research that favors the inclusion of all students in school environments.</i>
     </td>
-  </tr>                                                                                                                          
+  </tr>
+      <tr>
+    <td align="center" width="200">
+      <a href="https://www.jacarei.sp.gov.br" target="_blank">
+          <img width="749" height="496" alt="image" src="https://github.com/user-attachments/assets/45ea3ae6-78ef-4e05-85ca-2de83a2ee3b6" height="100" alt="MIND Logo"/>
+      </a>
+    </td>
+    <td>
+      <strong>Prefeitura de Jacareí</strong><br>
+      Prefeitura da cidade natal do IFSP (instiruição de origem do projeto). Atuando através da Secretaria de Educação, fortalece o alcance do software com a comunidade neurodivergente e apresenta as oportunidades de reconher as demandas reais do público-alvo.
+      <br><br>
+      <i>The city hall of the IFSP's (the institution where the project originated) hometown, acting through the Department of Education, strengthens the reach of the software within the neurodivergent community and presents opportunities to recognize the real needs of the target audience.</i>
+    </td>
+  </tr>  
+  <tr>
+    <td align="center" width="200">
+      <a href="https://www.jacarei.sp.gov.br" target="_blank">
+          <img width="600" height="506" alt="image" src="https://github.com/user-attachments/assets/f9acc57a-856f-41d6-a1f7-562d62f1cbef" height="100" alt="MIND Logo"/>
+      </a>
+    </td>
+    <td>
+      <strong>EMEI Thiago Silva Santos</strong><br>
+      Primeira escola a formar parceria com o projeto. Dessa forma, colabora fornecendo ideias de implementações baseadas nas demandas reais dos profissionais de educação e das crianças neurodivergentes.
+      <br><br>
+      <i>The first school to partner with the project. It collaborates by providing implementation ideas based on the real needs of education professionals and neurodivergent children.</i>
+    </td>
+  </tr> 
 </table>
 
 ### 👥 Equipe de Desenvolvimento | Development Team
