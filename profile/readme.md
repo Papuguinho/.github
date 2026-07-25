@@ -250,13 +250,25 @@ PhD in Space Geophysics (INPE), Professor and researcher (IFSP-Jacareí). Respon
 
 <table>
   <tr>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=icloud&logoColor=white" alt="Website">
+    <td align="center">
+       <a href="https://www.linkedin.com/company/papuguinho/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" />
+      </a>
     </td>
     <td>
-      🇧🇷 Visite nosso site oficial para conhecer mais nosso projeto.<br>
-      🇺🇸 <i>Visit our official website to learn more about our project.</i><br>
-      👉 <a href="https://www.papuguinho.com"><b>papuguinho.com</b></a>
+        <a href="https://www.instagram.com/papuguinho/" target="_blank">
+          <img src="https://skillicons.dev/icons?i=instagram" />
+        </a>
+    </td>
+    <td>
+        <a href="https://papuguinho.com" target="_blank">
+          <img src="https://skillicons.dev/icons?i=htmx" />
+        </a>
+    </td>
+    <td>
+        <a href="mailto:papuguinho@gmail.com" target="_blank">
+          <img src="https://skillicons.dev/icons?i=gmail" />
+        </a>
     </td>
   </tr>
 </table>
