@@ -22,7 +22,7 @@
 
 
 📥 Download & Teste | Download & Testing
-<table> <tr> <td align="center" width="150">  <img src="https://github.com/user-attachments/assets/035b6094-c4b8-43d2-bd45-4d1affe38847" width="100" height="100" style="border-radius: 50%; background-color: #1A1A1A; padding: 5px;" /> </td> <td> <strong>Android (Play Store) (AINDA SERÁ LANÇADA)</strong>
+<table> <tr> <td align="center" width="150">  <img src="https://github.com/user-attachments/assets/035b6094-c4b8-43d2-bd45-4d1affe38847" width="100" height="100" style="border-radius: 50%; background-color: #1A1A1A; padding: 5px;" /> </td> <td> <strong>Android (Play Store)</strong>
 
 
 🇧🇷 Versão estável para dispositivos Android.
@@ -31,7 +31,7 @@
 🇺🇸 <i>Stable version available for Android devices.</i>
 
 
-👉 <a href="LINK_DA_PLAYSTORE">Download via Play Store</a> </td> </tr> <tr> <td align="center" width="150"> <img src="https://github.com/user-attachments/assets/cfb82893-7b2e-4ee3-9494-e8f4aa01b8c6" alt="Web App" width="100" height="100" style="border-radius: 50%; background-color: #1A1A1A; padding: 5px;"> </td> <td> <strong>Web Version</strong>
+👉 <a href="https://play.google.com/store/apps/details?id=com.mycompany.versao1appcaa&pcampaignid=web_share">Download via Play Store</a> </td> </tr> <tr> <td align="center" width="150"> <img src="https://github.com/user-attachments/assets/cfb82893-7b2e-4ee3-9494-e8f4aa01b8c6" alt="Web App" width="100" height="100" style="border-radius: 50%; background-color: #1A1A1A; padding: 5px;"> </td> <td> <strong>Web Version</strong>
 
 🇧🇷 Teste a versão web diretamente no seu navegador.
 
