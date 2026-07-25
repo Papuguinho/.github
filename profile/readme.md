@@ -100,6 +100,19 @@
       <i>Institutional base, providing research grants and laboratory support.</i>
     </td>
   </tr>
+      <tr>
+    <td align="center" width="200">
+      <a href="https://campus.unifesp.br/sjc/" target="_blank">
+          <img width="749" height="496" alt="image" src="https://github.com/user-attachments/assets/4dfb8e7b-6fd1-4669-891f-0fdc728838c3" height="100" alt="MIND Logo"/>
+      </a>
+    </td>
+    <td>
+      <strong>ICT-Unifesp</strong><br>
+     Univerisidade parceira do projeto. Fornece suporte com novos integrantes, bolsas de iniciação científica e de extensão através do grupo de exntesão CodeLab - Unifesp.  
+      <br><br>
+      <i>Partner university for the project. It provides support regarding new members, as well as undergraduate research and extension scholarships, through the CodeLab - Unifesp extension group.</i>
+    </td>
+  </tr>
   <tr>
     <td align="center" width="200">
       <a href="https://arasaac.org" target="_blank">
