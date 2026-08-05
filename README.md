@@ -1,61 +1,98 @@
-# 🦜 Bem-vindo Desenvolvedor do Papuguinho!
+# 🦜 Bem-vindo ao Repositório do Papuguinho!
 
 Este documento é a sua porta de entrada. Aqui estão as regras da nossa casa, como organizamos o código e como trabalhamos juntos no repositório. Leia com atenção antes de começar o seu primeiro código!
 
 ---
-## 🔄 1. Fluxo de Trabalho e Git (Como enviar código)
+## 🔄 1. O Passo a Passo do Git (Fluxo de Trabalho)
 
-Temos uma regra de ouro inquebrável: **Ninguém faz commits direto na branch `main`.** 
-A `main` é sagrada e reflete o que os usuários estão usando em produção. O próprio GitHub está configurado para **bloquear** qualquer `push` direto para lá.
+Nós temos uma regra de ouro inquebrável: **Ninguém faz commits direto na branch `main`.** 
+A `main` reflete o que está em produção. O sistema está configurado para bloquear qualquer push direto para ela.
 
-### Passo a Passo para contribuir:
+### Passo 1: O Setup Inicial (Faça isso apenas na primeira vez)
+Para baixar o projeto para o seu computador, abra o terminal na pasta onde deseja guardar os seus projetos e rode:
 
-**1. Clone o repositório e atualize sua máquina**
-Sempre tenha certeza de que você está trabalhando com a versão mais recente:
 ```bash
+# Clone o repositório para a sua máquina
+git clone <COLE_O_LINK_DO_REPOSITORIO_AQUI>
+
+# Entre na pasta do projeto
+cd <NOME_DA_PASTA_DO_PROJETO>
+```
+
+### Passo 2: O Dia a Dia (Para cada nova tarefa)
+Antes de começar a programar, garanta que você está na base atualizada e crie a sua ramificação de trabalho:
+
+```bash
+# Vá para a branch principal
 git checkout main
+
+# Puxe as atualizações mais recentes da nuvem
 git pull origin main
+
+# Crie uma nova branch para a sua tarefa e mude para ela
+git checkout -b <prefixo>/<nome-da-tarefa>
 ```
-
-**2. Crie uma branch para a sua tarefa**
-Nunca codifique na `main`. Crie uma branch com um nome que explique o que você vai fazer:
-*   `feat/`: Para novas funcionalidades.
-*   `fix/`: Para conserto de bugs.
-*   `refactor/`: Para reescrever códigos antigos sem mudar o comportamento.
-```bash
-git checkout -b feat/nome-da-sua-tarefa
-```
-
-**3. Faça seus Commits (Padrão Semântico)**
-Seja claro no que você fez, use o **Convetional Commits** para escrever mensagem diretas e organizadas. <br>
-<a href="https://www.conventionalcommits.org/en/v1.0.0/">Convetional Commits</a>
-
-```bash
-git add .
-git commit -m "feat: adiciona botao de retorno na home"
-```
-
-**4. Suba sua branch para o GitHub**
-```bash
-git push -u origin nome-da-sua-branch
-```
-
-**5. Abra o Pull Request (PR)**
-Vá até a página do GitHub e clique em "Compare & pull request". Descreva o que você fez para facilitar a vida de quem vai revisar o seu código (Code Review). Se tudo estiver certo, seu código será aprovado e mesclado (merge) na `main`!
 
 ---
 
-## 💡 3. Exemplo Prático do Fluxo
+## 📝 2. Padrão de Commits (Conventional Commits)
 
-Para ilustrar, imagine que você assumiu a issue para resolver as exigências de versão do Firebase v13 e arrumar os erros de segurança. Seu fluxo seria exatamente este:
+Nós utilizamos a especificação do **[Conventional Commits](https://www.conventionalcommits.org/pt-br/v1.0.0/)**. Isso mantém nosso histórico legível e profissional. 
 
-1. `git checkout main`
-2. `git pull origin main`
-3. `git checkout -b fix/firebase-v13-security`
-4. *(Você atualiza os pacotes e arruma o código no VS Code)*
-5. `git add .`
-6. `git commit -m "fix: atualiza para Firebase v13 e resolve erros de segurança"`
-7. `git push -u origin fix/firebase-v13-security`
-8. Abre o PR no GitHub e aguarda a aprovação!
+Todo commit deve obrigatoriamente começar com um destes prefixos:
 
-Bem-vindo ao time e bom código! 🚀
+| Prefixo | Quando usar |
+| :--- | :--- |
+| `feat:` | Quando você adiciona uma funcionalidade nova. |
+| `fix:` | Quando você resolve um bug ou erro. |
+| `refactor:` | Quando você reescreve um código antigo sem mudar o que ele faz (melhoria técnica). |
+| `chore:` | Tarefas de manutenção (ex: atualizar dependências, arrumar configuração). |
+| `docs:` | Alterações apenas em documentação (como este README). |
+
+### Passo 3: Salvando o Código
+Quando terminar a tarefa, adicione e "commit" os arquivos usando o padrão:
+
+```bash
+# Adicione todos os arquivos modificados
+git add .
+
+# Crie o commit explicando a mudança
+git commit -m "fix: resolve erro de padding na tela inicial"
+```
+
+---
+
+## 🚀 4. Subindo o Código e Code Review
+
+Para que a equipe veja o seu código, você precisa enviá-lo para o GitHub e solicitar a aprovação.
+
+### Passo 4: O Envio (Push)
+```bash
+# Envie a sua branch para o repositório remoto
+git push -u origin <nome-da-sua-branch>
+```
+
+### Passo 5: O Pull Request (PR)
+1. Abra a página do repositório no GitHub.
+2. Você verá um botão verde escrito **"Compare & pull request"**. Clique nele.
+3. Descreva o que você fez de forma clara.
+4. Aguarde a revisão (Code Review). Se tudo estiver certo, o seu código será aprovado e mesclado na `main`!
+
+---
+
+## 💡 Exemplo Prático Completo
+
+Imagine que você assumiu uma issue do projeto para resolver problemas de segurança atualizando o Firebase. O seu fluxo no terminal seria exatamente este:
+
+```bash
+git checkout main
+git pull origin main
+git checkout -b fix/upgrade-firebase-v13
+# ... você atualiza os pacotes e resolve os erros de segurança no código ...
+git add .
+git commit -m "fix: atualiza para Firebase v13 e resolve erros de segurança"
+git push -u origin fix/upgrade-firebase-v13
+```
+*(Depois disso, é só abrir o Pull Request no GitHub!)*
+
+Bem-vindo ao time e bom código!
