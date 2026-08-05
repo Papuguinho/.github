@@ -76,7 +76,7 @@ git push -u origin <nome-da-sua-branch>
 1. Abra a página do repositório no GitHub.
 2. Você verá um botão verde escrito **"Compare & pull request"**. Clique nele.
 3. Descreva o que você fez de forma clara.
-4. Aguarde a revisão (Code Review). Se tudo estiver certo, o seu código será aprovado e mesclado na `main`!
+4. Aguarde a revisão (Code Review) feita pelos administradores da organização. Se tudo estiver certo, o seu código será aprovado e mesclado na `main`!
 
 ---
 
